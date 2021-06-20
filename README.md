@@ -1,6 +1,6 @@
 # web-image optimization toolkit
 ## Files:
-- `kmeans_comrepss.py`
+-  `kmeans_comrepss.py`: compressiong images by kmeans
     ```
     python kmeans_compress.py \
     --inputPath "your input image directory" \
